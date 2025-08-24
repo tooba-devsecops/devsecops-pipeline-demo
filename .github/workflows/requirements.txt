@@ -1,5 +1,1 @@
-*** a/.github/workflows/requirements.txt
---- b/.github/workflows/requirements.txt
-@@
-+bandit>=1.7.5
-+safety>=3.2.0
+flask==3.0.3
