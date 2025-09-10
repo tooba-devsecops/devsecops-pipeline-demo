@@ -1,1 +1,147 @@
 
+
+.welcome{color: #555;}
+p.vivacss{color: blue;}
+
+h1{font-family:copper black;
+color: #00ffff;
+text-align: center;
+font-size: 18;}
+
+h2{ font-family:copper black;
+	color: #f1f1f2;
+	text-align: center;
+	font-size: 18;}
+
+p{font-family: copper black;
+  text-align: center;
+  color: #BCBABE;
+  font-size: 18;}
+
+body{
+font-family:copper black;
+font-size:110%;
+color: black;
+background-color: red;
+background-size:120%;
+margin:0px;}
+
+a{margin:5px;}
+
+button{
+font-family:copper black;
+font-size: 150%;
+text-align: center;
+color: gray;}	
+
+button{
+list-style: none;
+margin: 0;
+padding: 0;}
+
+button{
+margin: 0;
+padding: 0;
+width: 1500px;
+height: 40px;}
+
+/*Haut de page*/
+#header{
+width: 1000px;
+height: 270px;
+margin-bottom:10px;}
+
+#options{
+width:1000px;
+height: 25px;
+background-color: #793ea8;
+text-align:right;}
+
+#logo{
+float:center;
+width: 566px;
+height: 333px;}
+
+#menu{
+float:right;
+padding-top:104px;
+width: 505px;
+height: 20px;}
+
+.btn{
+margin-top: 70px;}
+
+
+div{
+width: 190px;
+height: 120px;
+margin-left: 100px;
+margin-right: 100px;}
+
+div{
+float: center;
+height: 100px;
+margin-left: 500px;
+margin-right: 500px;}
+
+footer {position: absolute; bottom: 0; left: 0; right: 0}
+/*contenu du site*/
+#contenu{
+width:1000px;}
+
+#gauche{
+float:left;
+width: 235px;
+padding-left: 10px;
+padding-right: 5px;
+padding-bottom:50px;}
+
+#centre{
+float:left;
+width: 490px;
+padding-left: 5px;
+padding-right: 5px;
+padding-bottom:50px;}
+
+#colonne_gauche{
+float:left;
+width: 240px;}
+
+#colonne-droite{
+float:right;
+width: 235px;
+padding-left: 5px;}
+
+#droite{
+float:right;
+width: 235px;
+padding-left: 5px;
+padding-right: 10px;
+padding-bottom:50px;}
+
+#center img{
+padding-top:10px;}
+
+/*Titre*/
+Title {
+padding-bottom: 15px;
+width:140px;
+height:20px;
+line-height:20px;
+font-size:12px;
+color: #FFFFFF;}
+
+#gauche.titre {
+background-color: #008f00;}
+
+#centre.titre {
+background-color: #47006b;}
+
+#droite.titre {
+background-color: #ff9900;}
+
+#footer{
+clear:both;
+width:1000px;
+color: #BCBABE;
+height:40px;}
